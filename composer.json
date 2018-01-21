@@ -1,0 +1,19 @@
+{
+  "name": "sden81/brackets_calc use example",
+  "description": "Brackets calculation (OTUS Homework 1) App",
+  "authors": [
+    {
+      "name": "Denis Smolin",
+      "email": "sden81@yandex.ru"
+    }
+  ],
+  "require":{
+    "php": ">=7.0",
+    "symfony/console": "^3.4",
+    "sden81/brackets_calc": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  },
+  "minimum-stability": "dev"
+}
